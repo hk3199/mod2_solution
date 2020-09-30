@@ -58,6 +58,22 @@ body {
  
 
 }
+
+ #title2
+{
+  border-spacing: 0;
+   background-color: grey;
+  text-align: center;
+ 
+
+} #title3
+{
+  border-spacing: 0;
+   background-color: grey;
+  text-align: center;
+ 
+
+}
 .p2{
 
 border:solid black;
